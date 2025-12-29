@@ -16,7 +16,7 @@
 	System.out.println("Strong Module");
 	}
 	else {
-	System.out.println("Invalid mark entered");
+	System.out.println("error wrong choice");
 	}
 	}
 	}
