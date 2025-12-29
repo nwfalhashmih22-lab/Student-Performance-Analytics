@@ -1,7 +1,7 @@
 	public class StudentPerformanceAnalytics  {
 	public static void main(String[] args) {
 	Scanner input = new Scanner(System.in);
-	for (int i = 1; i <= 3; i++) {
+	for (int i = 1; i <= 5; i++) {
   System.out.println("Module " + i);
 	}
 	System.out.println("Enter average mark of the module:");
