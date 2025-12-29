@@ -7,7 +7,7 @@
 	System.out.println("Enter average mark of the module:");
 	int choice = input.nextInt();
 	if (choice == 1) {
-	System.out.println("Weak Module");
+	System.out.println("Module requires improvement");
 	}
 	else if (choice == 2) {
 	System.out.println("Average Module");
